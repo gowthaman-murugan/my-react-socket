@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with Clone React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ Clone React App https://github.com/gowthaman-murugan/my-react-socket).
+
+ ## install node with nvm
+
+  `nvm use`
+  `npm install`
 
 ## Available Scripts
 
